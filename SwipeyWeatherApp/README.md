@@ -16,6 +16,7 @@ A Cross-platform Mobile weather app with history navigation, error handling, and
 - React Native
 
 # Folder Structure
+![folder_structure](https://github.com/Mirza-Hassan/React_Native_WeatherApp/assets/17096257/217b2290-73bc-4614-aff2-af4f1be3b2c0)
 
 # Setup Instructions
 
