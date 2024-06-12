@@ -14,9 +14,10 @@ A Cross-platform Mobile weather app with history navigation, error handling, and
 # Pre Requisites
 
 - React Native
+- Third-party packages: Axios, react-navigation
 
 # Folder Structure
-![folder_structure](https://github.com/Mirza-Hassan/React_Native_WeatherApp/assets/17096257/217b2290-73bc-4614-aff2-af4f1be3b2c0)
+![folder_structure](https://github.com/Mirza-Hassan/React_Native_WeatherApp/assets/17096257/7ae4154f-2119-4a34-9008-0c990976383a)
 
 # Setup Instructions
 
