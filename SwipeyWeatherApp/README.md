@@ -16,7 +16,6 @@ A Cross-platform Mobile weather app with history navigation, error handling, and
 - React Native
 
 # Folder Structure
-![fs](https://github.com/Mirza-Hassan/React_Native_WeatherApp/assets/17096257/bdd10b6b-77d9-498c-8114-c0236acba4f6)
 
 # Setup Instructions
 
@@ -68,5 +67,9 @@ npx react-native run-ios
 - Status 404: City not found.
 
 # Screenshot
+
+![SS1](https://github.com/Mirza-Hassan/React_Native_WeatherApp/assets/17096257/035cae00-d308-4b08-9448-516732a2265e)
+
+![SS2](https://github.com/Mirza-Hassan/React_Native_WeatherApp/assets/17096257/a1c74656-f725-424f-bb4d-7fd18d9b8a6d)
 
 
