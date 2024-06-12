@@ -9,6 +9,7 @@ A Cross-platform Mobile weather app with history navigation, error handling, and
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [API Documentation](#api-documentation)
+- [Architecture and Trade-offs](#architecture-and-trade-offs)
 - [Screenshot](#screenshot)
 
 # Pre Requisites
@@ -67,6 +68,19 @@ npx react-native run-ios
 **Response:**
 - Status 200: Successful response with weather data for the specified city.
 - Status 404: City not found.
+
+# Architecture and Trade-offs
+
+## Architecture
+The app follows a component-based architecture using React Native. Screens are managed using React Navigation.
+
+- HomeScreen: Handles city input and displays search history.
+- ErrorScreen: Displays API error messages.
+- WeatherScreen: Shows weather details for a city.
+- AppNavigator: Manages navigation between screens.
+
+## Trade-offs
+- Search history is stored in the component state. Consider using persistent storage for reliability.
 
 # Screenshot
 
